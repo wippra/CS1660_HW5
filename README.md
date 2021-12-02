@@ -1,5 +1,5 @@
 # CS1660_HW5
-University of Pittsburgh CS 1660 Cloud Computing Homework 4 involving Hadoop, MapReduce, and Google Cloud Platform 
+University of Pittsburgh CS 1660 Cloud Computing Homework 5 involving Hadoop, MapReduce, and Google Cloud Platform 
 
 ## Source Code
 
@@ -15,9 +15,7 @@ thou	4642
 would	3401
 thy	2467
 king	2157
-
 ```
-
 
 ## Cloud Account 
 
